@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "675687b3a409d1868ade09e4"
+  },
+  "emp_name": "Ray Renolds",
+  "Department": "IT",
+  "salary": 7500,
+  "onsite": false
+},
+{
+  "_id": {
+    "$oid": "675687e8a409d1868ade09e5"
+  },
+  "emp_name": "Matt Aniston",
+  "Department": "HR",
+  "salary": 6000,
+  "onsite": true
+},
+{
+  "_id": {
+    "$oid": "675687f3a409d1868ade09e6"
+  },
+  "emp_name": "Monica Perry",
+  "Department": "Admin",
+  "salary": 5000,
+  "onsite": true
+},
+{
+  "_id": {
+    "$oid": "675687f3a409d1868ade09e7"
+  },
+  "emp_name": "Rachel Tribbiani",
+  "Department": "IT",
+  "salary": 9000,
+  "onsite": false
+}]
