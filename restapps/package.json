@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "restapps",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
     "mongoose": "^8.8.4"
-  },
-  "description": ""
+  }
 }
