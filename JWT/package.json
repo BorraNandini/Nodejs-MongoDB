@@ -1,7 +1,7 @@
 {
-  "name": "restapps",
+  "name": "jwt",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "token.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,9 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "body-parser": "^1.20.3",
-    "cors": "^2.8.5",
     "express": "^4.21.2",
-    "mongoose": "^8.8.4"
+    "jsonwebtoken": "^9.0.2"
   }
 }
